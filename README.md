@@ -1,11 +1,11 @@
 # baumirein landing page
-> A simple landing page for baumirein.de
+> A simple landing page for <a href="https://baumirein.de/" >baumirein.de</a>
 
 [![GitHub issues](https://img.shields.io/github/issues/getPoland/baumirein-landing-page)](https://github.com/getPoland/baumirein-landing-page/issues)[![GitHub forks](https://img.shields.io/github/forks/getPoland/baumirein-landing-page)](https://github.com/getPoland/baumirein-landing-page/network)[![GitHub license](https://img.shields.io/github/license/getPoland/baumirein-landing-page)](https://github.com/getPoland/baumirein-landing-page/blob/master/LICENSE)
 
 
 
-> Dependencies
+### Dependencies
 
 - <a href="https://www.w3schools.com/w3css/w3css_downloads.asp">W3.CSS</a>
 - <a href="https://fonts.google.com/specimen/Raleway">Google Fonts (Raleway)</a>
